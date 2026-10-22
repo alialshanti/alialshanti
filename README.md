@@ -50,4 +50,3 @@ I'm comfortable working with remote, cross-functional teams and thrive in fast-p
 
 - **Email:** alialshanti998@gmail.com
 - **LinkedIn:** [linkedin.com/in/ali-al-shanti-868b67184](https://www.linkedin.com/in/ali-al-shanti-868b67184)
-- **Portfolio:** [alishanti-dev.vercel.app](https://alishanti-dev.vercel.app/)
